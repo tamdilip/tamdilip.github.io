@@ -2,7 +2,7 @@
 # tamdilip.github.io
 Personal space to publish gh-pages from my repos !! 
 
-<details><summary><h1>whatsapp-amazonconnect-chat</h1></summary>
+<details><summary> <h1>whatsapp-amazonconnect-chat</h1> </summary>
 <p>
 
 > Node JS server for transferring real-time messages between WhatsApp and Amazon Connect Chat using Twilio's WhatsApp Business API Sandbox via Server-Side Websocket Clients.
