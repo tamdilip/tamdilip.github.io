@@ -12,3 +12,9 @@ Personal space to publish gh-pages from my repos !!
 > A basic SAML based authroization code grant flow authentication using AWS Cognito with Azure Active Directory IdP through AWS Amplify with EmberJS (octane). This repo gives a gist of handling federated sign-in using Amplify's Hub events on callback redirects in ember flow without any promise callbacks.
 
 >[![Read about setup and installation](https://img.shields.io/badge/gh%20page-Setup%20and%20Installation-red?style=flat-square&logo=git&logoColor=violet)](https://github.com/tamdilip/ember-amplify-cognito-azure-ad/blob/master/README.md) [![Live demo](https://img.shields.io/badge/gh%20pages-Live%20demo-blue?style=flat-square&logo=git&logoColor=violet)](https://tamdilip.github.io/ember-amplify-cognito-azure-ad) [![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-green?style=flat-square&logo=codesandbox)](https://codesandbox.io/s/github/tamdilip/ember-amplify-cognito-azure-ad)
+
+### [nestjs-microservice-angular](https://github.com/tamdilip/nestjs-microservice-angular)
+
+> A NodeJS based microservice built with NestJS Framework and NestCloud modules for a hackathon to design a dashboard for admin portal to upload different excel data and represent them through infographic charts/graphs.
+
+>[![Read about setup and installation](https://img.shields.io/badge/gh%20page-Setup%20and%20Installation-red?style=flat-square&logo=git&logoColor=violet)](https://tamdilip.github.io/nestjs-microservice-angular/)
